@@ -1,0 +1,64 @@
+body{
+  background-color: #9a33d7;
+  font-family: fantasy;
+}
+.login{
+  padding: 0px;
+  margin: 0 auto;
+  width: 415px;
+}
+img{
+  height: 215px;
+  width: 415px;
+}
+.login .img{
+  margin: 0px;
+}
+.login .input{
+  text-align: center;
+  padding-top:20px;
+  background-color: white;
+}
+.login input{
+  margin: 5px;
+}
+.login h1{
+  color: #280e60;
+}
+.login input[type=text]{
+  border-style: double;
+  border-color: #b8a5f2;
+  border-radius: 50px;
+  border-width: 1px;
+  height: 44px;
+  width: 235px;
+  padding-left: 10px;
+  color: #bba0fb;
+}
+.login input[type=submit]{
+  height: 44px;
+  width: 235px;
+  text-align: center;
+  color: white;
+  border-radius: 50px;
+  border: none;
+  background-color: #fb9836;
+  font-size: 15px;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+.login input[type=checkbox]{
+  color: #280e60;
+  margin: 0px;
+  background-color: #280e60;;
+}
+.login a{
+  font-size: 11px;
+  text-decoration: none;
+  color: #280e60;
+}
+.login label{
+  margin-right: 50px;
+  font-size: 11px;
+  color: #280e60;
+}
